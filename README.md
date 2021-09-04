@@ -28,9 +28,6 @@ I enjoy exploring various domains of Data Science. I am a Kaggle Notebook Expert
 ### Connect with me:
 
 
-<a href="https://www.kaggle.com/zyper26" target="blank"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Kaggle_logo.png?raw=true" alt="Kaggle" height="40" width="70" /></a> <br>
-
-<a href="https://www.linkedin.com/in/shubham-chaurasia-67756b99/" target="blank"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Linkedin-Logo.png?raw=true" alt="LinkedIn" height="80" width="80" /></a>
-
+<a href="https://www.kaggle.com/zyper26"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Kaggle-logo.png?raw=true" alt="Kaggle" height="50" width="50" /></a>  &nbsp; &nbsp;    <a href="https://www.linkedin.com/in/shubham-chaurasia-67756b99/"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Linkedin_logo.png?raw=true" alt="LinkedIn" height="60" width="80" /></a>
 
 <h3 align="center">🌈 Best Wishes 🌈</h3>
