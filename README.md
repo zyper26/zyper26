@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey! I'm Shubham Chaurasia</h1>
 
-### I am a Machine Learning Enthusiast
+### I am a Machine Learning Enthusiast ✨
 I enjoy exploring various domains of Data Science. I am a Kaggle Notebook Expert. I work on fun projects and enjoy the learning experience. Currently pursing in Post Graduate Diploma in ML & AI. 
- - 🌱 I'm currently learning with each passing day.
+
+- 🌱 I'm currently learning with each passing day.
+
+
 
 ### Connect with me:
+
 
 <a href="https://www.kaggle.com/zyper26" target="blank"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Kaggle_logo.png?raw=true" alt="Kaggle" height="40" width="70" /></a> <br>
 
