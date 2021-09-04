@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
+'''html
 <div style="text-align: center;text-size:20px;border:1px solid red;background:blue; font-size:30px">
     <span style='background :blue; color:white' align="center"> <b> Hey! I'm Shubham Chaurasia </b> </span>
 </div>
-    </html>
+'''
 
 <b>I am a Machine Learning Enthusiast</b>
 I enjoy exploring various domains of Data Science. I am a Kaggle Notebook Expert. I work on fun projects and enjoy the learning experience. Currently pursing in Post Graduate Diploma in ML & AI. 
