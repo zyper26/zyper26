@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 I enjoy exploring various domains of Data Science. I am a Kaggle Notebook Expert. I work on fun projects and enjoy the learning experience. Currently pursing in Post Graduate Diploma in ML & AI. 
  - 🌱 I'm currently learning with each passing day.
 
-Connect with me:
+### Connect with me:
 
-[![Kaggle](https://github.com/zyper26/zyper26/blob/main/Kaggle_logo.png)](https://www.kaggle.com/zyper26)
-[![LinkedIn](https://github.com/zyper26/zyper26/blob/main/Linkedin-Logo.png)](https://www.linkedin.com/in/shubham-chaurasia-67756b99/)
+<a href="https://www.kaggle.com/zyper26" target="blank"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Kaggle_logo.png?raw=true" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-chaurasia-67756b99/" target="blank"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Linkedin-Logo.png?raw=true" alt="LinkedIn" height="30" width="40" /></a>
+
+
+<h3 align="right">🌈 Best Wishes 🌈</h3>
