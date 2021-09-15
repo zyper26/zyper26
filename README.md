@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey! I'm Shubham Chaurasia</h1>
 
 ### I am a Data Science and Machine Learning Enthusiast ✨
-I enjoy exploring various domains of Data Science. I am a Kaggle 2X Expert. I work on fun projects and enjoy the learning experience. Currently pursing in Post Graduate Diploma in ML & AI. 
+I enjoy exploring various domains of Data Science. I am a Kaggle 2x Expert. I work on fun projects and enjoy the learning experience. Currently pursing in Post Graduate Diploma in ML & AI. 
 
 - 🌱 I'm currently learning with each passing day.
 
