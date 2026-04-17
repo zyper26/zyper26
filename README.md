@@ -1,31 +1,19 @@
+# Hey! I'm Shubham Chaurasia 👋
 
+**Senior Data Scientist (SDE-II) @ PhysicsWallah · Bangalore**
 
-<!--
-### Hi there 👋
-**zyper26/zyper26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-grade agentic LLM systems, multi-agent pipelines, and multilingual NLP solutions across Indic languages. Kaggle 2x Expert with 6+ years of experience spanning classical ML, deep learning, and GenAI infrastructure.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- 🧠 Neo4j + LangGraph multi-agent RAG pipeline for ed-tech at scale
+- 🌐 11-language Indic NER system for real-world deployment
+- ⚙️ LLM observability & evaluation with Langfuse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `LangGraph` `LangChain` `Neo4j` `FastAPI` `HuggingFace` `PyTorch` `Airflow` `MongoDB`
 
-<h1 align="center">Hey! I'm Shubham Chaurasia</h1>
+### 📬 Connect with me
+[![Kaggle](kaggle-badge)](https://kaggle.com/...) [![LinkedIn](linkedin-badge)](https://linkedin.com/in/...)
 
-### I am a Data Science and Machine Learning Engineer ✨
-I enjoy exploring various domains of Data Science. I am a Kaggle 2x Expert. I work on fun projects and enjoy the learning experience. 
-
-- 🌱 I'm currently learning with each passing day.
-
-### Connect with me:
-
-
-<a href="https://www.kaggle.com/zyper26"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/kaggle_logo.png?raw=true" alt="Kaggle" height="50" width="50" /></a>  &nbsp; &nbsp;    <a href="https://www.linkedin.com/in/shubham-chaurasia-67756b99/"><img align="center" src="https://github.com/zyper26/zyper26/blob/main/Linkedin_logo.png?raw=true" alt="LinkedIn" height="60" width="80" /></a>
-
-<h3 align="center">🌈 Best Wishes 🌈</h3>
+---
+*"Learning with each passing day — just at a much faster rate now."* 🚀
