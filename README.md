@@ -10,7 +10,7 @@ I build production-grade agentic LLM systems, multi-agent pipelines, and multili
 - ⚙️ LLM observability & evaluation with Langfuse
 
 ### 🛠️ Tech Stack
-`Python` `LangGraph` `LangChain` `Neo4j` `FastAPI` `HuggingFace` `PyTorch` `Airflow` `MongoDB`
+`Python` `LangGraph` `LangChain` `Neo4j` `FastAPI` `HuggingFace` `PyTorch` `Kafka` `MongoDB`
 
 ### 📬 Connect with me
 [![Kaggle](kaggle-badge)](https://kaggle.com/...) [![LinkedIn](linkedin-badge)](https://linkedin.com/in/...)
