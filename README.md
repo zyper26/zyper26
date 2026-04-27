@@ -13,7 +13,7 @@ I build production-grade agentic LLM systems, multi-agent pipelines, and multili
 `Python` `LangGraph` `LangChain` `Neo4j` `FastAPI` `HuggingFace` `PyTorch` `Kafka` `MongoDB`
 
 ### 📬 Connect with me
-[![Kaggle](kaggle-badge)](https://kaggle.com/...) [![LinkedIn](linkedin-badge)](https://linkedin.com/in/...)
+[![Kaggle]([kaggle-badge](https://github.com/zyper26/zyper26/blob/main/kaggle_logo.png))](https://kaggle.com/...) [![LinkedIn]([linkedin-badge](https://github.com/zyper26/zyper26/blob/main/Linkedin_logo.png))](https://linkedin.com/in/...) [![Medium]([linkedin-badge]https://github.com/zyper26/zyper26/blob/main/Medium.png)]([https://linkedin.com/in/...](https://medium.com/@shubham.chaurasia.261996))
 
 ---
 *"Learning with each passing day — just at a much faster rate now."* 🚀
